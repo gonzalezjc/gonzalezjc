@@ -1,4 +1,4 @@
-<h1 align="center">Hola! Salut! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Hello there! I am JC!
+<h1 align="center">Hello there! Hola! Salut! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I am JC!
 <img width="150" src="https://weather-icon.journeyad.repl.co/@paris?v=1" align="center">
 </h1>
 
